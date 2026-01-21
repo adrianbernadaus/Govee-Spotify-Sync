@@ -8,7 +8,7 @@ import os
 from PIL import Image
 from bleak import BleakClient
 from spotipy import Spotify
-from spotipy.oauth2 import SpoifyOAuth
+from spotipy.oauth2 import SpotifyOAuth
 from dotenv import load_dotenv
 
 load_dotenv()
