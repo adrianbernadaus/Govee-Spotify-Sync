@@ -1,0 +1,5 @@
+bleak
+spotipy
+Pillow
+requests
+python-dotenv

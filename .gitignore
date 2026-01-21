@@ -1,0 +1,19 @@
+# Secrets
+.env
+.cache/
+__pycache__/
+
+# System
+thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Unused/Old files (Clean Repo)
+buildozer.spec
+main.py
+list_audio_devices.py
+ver_error.bat
+scan_uuid.py
+INSTRUCCIONES_COLAB.md
