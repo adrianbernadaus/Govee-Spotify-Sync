@@ -1,5 +1,7 @@
 # Secrets
 .env
+.cache
+.cache-*
 .cache/
 __pycache__/
 
